@@ -6,4 +6,5 @@
 ---
 
 
-Uma atividade muito boa e interessante de se por em prática.
+Até o momento edit e o search não estão funcionando
+
