@@ -1,0 +1,59 @@
+.title-album{
+  margin: 30px 20px auto auto;
+  font-weight: bolder;
+}
+
+table{
+  margin: 10px 0;
+  width: 100%;
+}
+
+
+table tbody tr th{
+  font-weight: normal;
+  padding: 5px 0;
+  text-align: start;
+}
+table tbody tr td{
+  text-align: start;
+  padding: 5px 0;
+}
+
+.num{
+  width: 10%;
+}
+
+.faixa{
+  width: 40%;
+}
+.duracao {
+  width: 20%;
+  text-align: end;
+}
+.duracao-td {
+  width: 20%;
+  text-align:end;
+  padding-right: 29px;
+}
+.acoes {
+  width: 10%;
+  text-align:center;
+
+}
+
+
+.fiEdit{
+  cursor: pointer;
+  color: #0275d8;
+  size: 15px;
+}
+.fiDelete{
+  cursor: pointer;
+  color: #d9534f;
+  size: 15px;
+}
+
+.table-main {
+  font-size: 15px;
+  align-items: baseline;
+}
